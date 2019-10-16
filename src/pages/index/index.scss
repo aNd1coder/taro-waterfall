@@ -1,0 +1,29 @@
+.waterfall {
+  width: 750px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 30px;
+
+  &-col {
+    width: 335px;
+  }
+
+  &-block {
+    width: 335px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+
+    &__cover {
+      width: 335px;
+      height: 335px;
+      margin-bottom: 10px;
+    }
+
+    &__title {
+      height: 84px;
+    }
+  }
+}

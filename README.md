@@ -1,2 +1,1 @@
-# taro-waterfall
-Waterfall layout component for Taro
+# Taro 高性能瀑布流组件（for RN）
